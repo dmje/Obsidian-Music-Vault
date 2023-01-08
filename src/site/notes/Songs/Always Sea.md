@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/songs/always-sea/"}
+{"type":"Song","is":"blameclub","dg-publish":true,"permalink":"/songs/always-sea/","dgPassFrontmatter":true}
 ---
 
 
