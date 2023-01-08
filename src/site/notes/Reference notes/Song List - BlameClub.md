@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-notes/song-list-blame-club/"}
+{"dg-publish":true,"permalink":"/reference-notes/song-list-blame-club/","dgPassFrontmatter":true}
 ---
 
 # Song List - BlameClub
@@ -13,9 +13,9 @@
 
 | File                                        | Modified                   | Tags      |
 | ------------------------------------------- | -------------------------- | --------- |
-| [[Songs/Always Sea\|Always Sea]]         | 2:46 PM - January 08, 2023 | <ul></ul> |
-| [[Songs/Bright Star\|Bright Star]]       | 5:45 PM - January 07, 2023 | <ul></ul> |
-| [[Songs/Dead Pony Club\|Dead Pony Club]] | 5:33 PM - January 07, 2023 | <ul></ul> |
+| [[Songs/Always Sea\|Always Sea]]         | 3:09 PM - January 08, 2023 | <ul></ul> |
+| [[Songs/Bright Star\|Bright Star]]       | 3:09 PM - January 08, 2023 | <ul></ul> |
+| [[Songs/Dead Pony Club\|Dead Pony Club]] | 3:09 PM - January 08, 2023 | <ul></ul> |
 | [[Songs/On Motorways\|On Motorways]]     | 5:29 PM - January 07, 2023 | <ul></ul> |
 | [[Songs/Rough Tor\|Rough Tor]]           | 5:53 PM - January 07, 2023 | <ul></ul> |
 | [[Songs/The Reach\|The Reach]]           | 5:29 PM - January 07, 2023 | <ul></ul> |
