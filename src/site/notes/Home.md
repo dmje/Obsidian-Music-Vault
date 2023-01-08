@@ -10,7 +10,7 @@
 Useful things:
 
 - The [[Reference notes/Song List - Personal\|Song List - Personal]] is, not surprisingly, a list of All The Songs (use Song template)
-- The 
+- The [[Reference notes/Song List - BlameClub\|Song List - BlameClub]] is ...Blame Club songs ;-) 
 - See [[Personal songs - to do\|Personal songs - to do]] for a Kanban board where I'll start gathering together what state of progress everything is in, what's good, etc...
 
 ## The Songs Folder
